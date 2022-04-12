@@ -1,2 +1,2 @@
 # Project
-for practice
+for practice for git commands demostration
